@@ -1,0 +1,18 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-install-developer-toolset"
+      label: "Install Developer Toolset"
+      solveButton: false
+    - name: "02-write-program"
+      label: "Write Program"
+      solveButton: false
+    - name: "03-run-program"
+      label: "Run Program"
+      solveButton: false
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty_rhel/ssh/root
