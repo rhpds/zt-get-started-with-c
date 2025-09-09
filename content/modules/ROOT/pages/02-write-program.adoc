@@ -1,5 +1,8 @@
-A directory for your source code has been created for you. Move to the
-C_source directory by running the following command
+== Write a Program
+
+Welcome to this lab experience for Red Hat Enterprise Linux. In this Lab, you will learn how to build and run code written in C or C++ on RHEL.
+
+A directory for your source code has been created for you. Move to the `C_source` directory by running the following command:
 
 [source,bash,run]
 ----
